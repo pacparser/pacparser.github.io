@@ -1,2 +1,1 @@
-# pacparser.github.io
-Github pages for pacparser
+This now just hosts a redirect to https://pacparser.manugarg.com.
